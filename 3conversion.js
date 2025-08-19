@@ -55,4 +55,8 @@ console.log(+true);
 
 
 
+let z=9;
+let y=++z;
+
+console.log(z , y);
 
